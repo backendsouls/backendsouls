@@ -8,9 +8,10 @@
 
 ### 🧠 About me
 
+- 💼 **18 years** building backend applications.
 - 🔭 I like building things that explain how computers actually work — interpreters, virtual machines, and emulators.
 - 🦀 Currently deep in **Rust**, **Go**, and systems programming.
-- 🌐 Comfortable across the stack with **Go**, **TypeScript**, **JavaScript**, and **Python**.
+- 🌐 Comfortable across the stack with **Java**, **TypeScript**, **JavaScript**, and **Python**.
 - 📚 Always learning — from *Crafting Interpreters* to the Bitcoin UTXO model and beyond...
 
 ### 🛠️ Things I've been building this year
@@ -35,12 +36,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-### 📊 GitHub stats
+### 🎓 Education
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=backendsouls&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backendsouls&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+- 🤖 **Master's in Machine Learning.**
 
 ---
 
